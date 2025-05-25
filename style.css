@@ -1,0 +1,27 @@
+body {
+    background-color: #f4f6f9;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+h2 {
+    color: #333;
+}
+
+form {
+    background: #fff;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+body {
+    background-color: #f9f9f9;
+}
+h2 {
+    margin-bottom: 20px;
+}
+.alert {
+    margin-top: 15px;
+}
+.table {
+    background-color: #fff;
+}
